@@ -1,0 +1,51 @@
+{
+  "id": "3751915",
+  "name": "ShoppingProject",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "630085",
+      "name": "向上箭头",
+      "font_class": "xiangshangjiantou",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "630092",
+      "name": "向下箭头",
+      "font_class": "xiangxiajiantou",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "772246",
+      "name": "购物 购物车 订购",
+      "font_class": "gouwugouwuchedinggou",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "5802479",
+      "name": "放大镜",
+      "font_class": "Magnifier",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "7587956",
+      "name": "垃圾桶",
+      "font_class": "lajitong",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "11613946",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}
